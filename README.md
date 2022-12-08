@@ -1,4 +1,4 @@
-KT_EDA_Project
+# KT_EDA_Project
 AI+X선도인재양성프로젝트 교과목에서 진행한 프로젝트
 https://www.kaggle.com/competitions/sm-ai-x-competition/overview
 
